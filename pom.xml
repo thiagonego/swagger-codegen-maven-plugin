@@ -11,7 +11,7 @@
 
     <groupId>com.github.thiagonego</groupId>
     <artifactId>swagger-codegen-maven-plugin</artifactId>
-    <version>2.1.9</version>
+    <version>2.1.10</version>
 
     <name>swagger-codegen (maven-plugin)</name>
     <packaging>maven-plugin</packaging>
